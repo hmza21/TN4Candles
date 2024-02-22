@@ -1,0 +1,30 @@
+body {
+    margin: 0;
+}
+
+header > img {
+    width: 100%;
+}
+
+.gap-fix {
+    margin-top: -2%;
+}
+
+li > center {
+    margin-top: 2em;
+}
+
+.price {
+    font-weight: bold;
+}
+
+center > img {
+    width: 10em;
+    height: 10em;
+    object-fit: cover;
+}
+
+ul, li {
+    margin: 0;
+    padding: 0;
+}
